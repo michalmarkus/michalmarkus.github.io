@@ -8,4 +8,4 @@ meta: "Springfield"
 ---
 
 # Polecenia Bash
-[link] https://michalmarkus.github.io GitHub
+[link](https://michalmarkus.github.io) GitHub
