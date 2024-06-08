@@ -13,6 +13,13 @@ permalink: /bash/
 ## Seciurity, Bezpieczeństwo 
 - <https://endoflife.date/> - EOL kiedy traci wsparcie
 - <https://www.privacytools.io/> - Privacy Tools
+- <https://nfsec.pl/> - Blog Seciurity 
+
+## Dydaktyka
+- <https://www.cs.put.poznan.pl/jkonczak/start> - SSH tunelowanie, sieci, systemy operacyjne
+- <https://bprzybylski.github.io/DSOP/> - Bash, C+
+- <https://home.agh.edu.pl/~pmarynow/index3.html> - SSH, tunelowanie, tor
+- <https://allinonebyplucek.blogspot.com/p/spis-tresci-systemy-operacyjne.html> - Systemy operacyjne, baza wiedzy  
 
 ### Self-hosted, konteneryzacja i docker
 - <https://www.kasmweb.com> - KasmVNC WORKSPACE
