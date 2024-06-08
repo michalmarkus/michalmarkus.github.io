@@ -1,5 +1,5 @@
 ---
-layout: bash
+layout: page
 title: Bash
 permalink: /bash/
 ---
