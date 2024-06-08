@@ -17,13 +17,13 @@ Welcome to the Gollum wiki! See the documentation below, or view [Test](Test) of
 | Speccy | https://www.ccleaner.com/pl-pl/speccy | informacji o Twoim systemie. |
 
 ## Seciurity, Bezpieczeństwo 
-- https://endoflife.date/ - EOL kiedy traci wsparcie
-- https://www.privacytools.io/ - Privacy Tools
+- <https://endoflife.date/> - EOL kiedy traci wsparcie
+- <https://www.privacytools.io/> - Privacy Tools
 
 ### Self-hosted, konteneryzacja i docker
-- https://www.kasmweb.com - KasmVNC WORKSPACE
-- https://rustdesk.com - Zdalne zarządzania 
-- https://mariushosting.com/ - Kontenery, docker oraz synology
+- <https://www.kasmweb.com> - KasmVNC WORKSPACE
+- <https://rustdesk.com> - Zdalne zarządzania 
+- <https://mariushosting.com> - Kontenery, docker oraz synology
 
 ### Narzędzia OnLine
 
