@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Bash
-permalink: /bash/
+title: Linki
+permalink: /Linki/
 ---
+## Forum
+- <https://forum.pclab.pl/> - Forum ogólnotematyczne Windows, Pc, Sprzęt
+- <https://www.sat-4-all.com/> - Forum Share - Enigma2 - dekodery 
+
+## Aplikacje online
+- <https://excalidraw.com/> - Interaktywna tablica, rysowanie online
+- <https://fixthephoto.com/pl/photoshop-online.html> - PhotoPea coś jak Photoshop tylko że w przeglądarce  
+- <https://www.kimovil.com/pl/> - Porównywarka telefonów
 
 ## Aplikacje 
 - <https://www.sumatrapdfreader.org/> - Sumatra PDF
@@ -26,19 +34,16 @@ permalink: /bash/
 - <https://rustdesk.com> - Zdalne zarządzania 
 - <https://mariushosting.com> - Kontenery, docker oraz synology
 
-### Narzędzia OnLine
-
-- <https://fixthephoto.com/pl/photoshop-online.html> - PhotoPea coś jak Photoshop tylko że w przeglądarce  
-- <https://www.kimovil.com/pl/> - Porównywarka telefonów
-
 ### VPS-y 
 
 - <https://mikr.us> - VPS bezpłatny i w dobrych cenach
 - <https://keyubu.com/> - Turecki VPS 
 - <https://tiktalik.com/pl/>
+- <https://sldc.eu/> - serwer współdzielony 
 
 ### GitHub
 - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links>
+- <https://gist.github.com/michalmarkus/385379c854e5d031f241c42d4476ce79> - Polecenia, komendy w linuksie
 
 
 ## Programowanie
