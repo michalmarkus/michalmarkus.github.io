@@ -21,7 +21,8 @@ permalink: /Linki/
 ## Seciurity, Bezpieczeństwo 
 - <https://endoflife.date/> - EOL kiedy traci wsparcie
 - <https://www.privacytools.io/> - Privacy Tools
-- <https://nfsec.pl/> - Blog Seciurity 
+- <https://nfsec.pl/> - Blog Seciurity
+- <https://avlab.pl/> - AV LAB
 
 ## Dydaktyka
 - <https://www.cs.put.poznan.pl/jkonczak/start> - SSH tunelowanie, sieci, systemy operacyjne
