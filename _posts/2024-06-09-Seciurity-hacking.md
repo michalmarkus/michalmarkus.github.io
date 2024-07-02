@@ -18,4 +18,5 @@ ls /usr/share/nmap/scripts/* | grep ftp
 ```
 
 ## Hacking
-* <https://book.hacktricks.xyz> - 
+* <https://book.hacktricks.xyz> -
+* <https://old.reddit.com/r/hacking/wiki/index>
