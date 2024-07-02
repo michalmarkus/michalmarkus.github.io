@@ -16,3 +16,6 @@ nmap localhost
 # Wyszukaj w skryptach nmap słowa kluczowe
 ls /usr/share/nmap/scripts/* | grep ftp    
 ```
+
+## Hacking
+* https://book.hacktricks.xyz/ - 
