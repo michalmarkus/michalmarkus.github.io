@@ -3,6 +3,12 @@ layout: page
 title: Linki
 permalink: /Linki/
 ---
+## Podsystem Android w Windows 11
+- <https://gist.github.com/HimDek/eb8704e2da1d98240153165743960e17> - Konfiguracja
+- <https://gist.github.com/HimDek/e09340eae2861e1ad8b7f6bdba5ee9ff> - Instalacja aplikacji
+- <https://www.apkmirror.com/> - APK aplikacje do Androida
+- <https://m.apkpure.com/pl/> - Menadzer aplikacji
+
 ## Forum
 - <https://forum.pclab.pl/> - Forum ogólnotematyczne Windows, Pc, Sprzęt
 - <https://www.sat-4-all.com/> - Forum Share - Enigma2 - dekodery 
