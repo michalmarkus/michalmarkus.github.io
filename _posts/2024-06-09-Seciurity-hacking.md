@@ -4,7 +4,7 @@ layout: post
 
 ## Wyszukiwarki
 * <https://www.startpage.com/pl/> - oparta na silniuku Google
-* <https://www.qwant.com/> - Francuska oparta na Bingu
+* <https://www.qwant.com/> - Francuska oparta na Bingu k
 * <https://duckduckgo.com> 
 
 
