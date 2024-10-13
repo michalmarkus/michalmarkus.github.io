@@ -2,6 +2,13 @@
 layout: post
 ---
 
+## Wyszukiwarki
+* <https://www.startpage.com/pl/> - oparta na silniuku Google
+* <https://www.qwant.com/> - Francuska oparta na Bingu
+* <https://duckduckgo.com> 
+
+
+
 ```bash
 # Pełne skanowanie Nmapa, uruchamia ukrywanie synchronizacji, czas T4
 nmap -v -sS -A -T4 cel
