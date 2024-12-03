@@ -7,6 +7,8 @@ layout: post
 * <https://www.qwant.com/> - Francuska oparta na Bingu k
 * <https://duckduckgo.com> 
 
+## Różne
+* <https://www.sejda.com/> - edytor PDF 
 
 
 ```bash
